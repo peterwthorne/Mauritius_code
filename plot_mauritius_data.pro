@@ -326,7 +326,7 @@ OPLOT,times,diffs,min_value=0,color=6,thick=3
 
 ; Plot inline key
 PLOTS,[1884.,1885.],[13.,13.],color=1,thick=3
-XYOUTS,1885.5,12.85,'Ventialted room'
+XYOUTS,1885.5,12.85,'Ventilated room'
 PLOTS,[1890.,1891.],[13.,13.],color=2,thick=3
 XYOUTS,1891.5,12.85,'Thermograph'
 PLOTS,[1895.,1896.],[13.,13.],color=3,thick=3
@@ -389,7 +389,7 @@ OPLOT,times,diffs,min_value=0,color=6,thick=3
 
 ; Plot inline key
 PLOTS,[1884.,1885.],[13.,13.],color=1,thick=3
-XYOUTS,1885.5,12.85,'Ventialted room'
+XYOUTS,1885.5,12.85,'Ventilated room'
 PLOTS,[1891.,1892.],[13.,13.],color=2,thick=3
 XYOUTS,1892.5,12.85,'Thermograph'
 PLOTS,[1898.,1899.],[13.,13.],color=3,thick=3
